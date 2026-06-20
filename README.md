@@ -5,8 +5,8 @@ This repository contains projects, and notes for the IBM Data Analysis course. T
 ---
 
 ## Technologies and Tools
-* **Tools:** Excel, IBM Cognos Analysis, Google Data Studio, SQl
-* **Libraries:** ---
+* **Tools:** Excel, IBM Cognos Analysis, Google Data Studio, Jupyter Notebook
+* **Libraries:** Numpy, matplotlib, yfinance, pandas
 
 
 ---
